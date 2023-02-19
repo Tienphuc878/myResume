@@ -206,7 +206,7 @@ h6 {
   .nav-menu a span,
   .nav-menu a:focus span {
     display: none;
-    color: #fff;
+    color: #39444e;
   }
 }
 
@@ -214,7 +214,7 @@ h6 {
 .nav-menu .active,
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
-  color: #fff;
+  color: #39444e;
   background: #ee66cc;
 }
 
@@ -222,13 +222,13 @@ h6 {
 .nav-menu .active span,
 .nav-menu .active:focus span,
 .nav-menu li:hover>a span {
-  color: #fff;
+  color: #39444e;
 }
 
 .nav-menu a:hover,
 .nav-menu li:hover>a {
   width: 100%;
-  color: #fff;
+  color: #39444e;
 }
 
 .nav-menu a:hover span,
