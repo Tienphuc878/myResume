@@ -193,7 +193,7 @@ h6 {
 .nav-menu a span,
 .nav-menu a:focus span {
   padding: 0 5px 0 7px;
-  color: #45505b;
+  color: ##394440;
 }
 
 @media (min-width: 992px) {
@@ -268,7 +268,7 @@ h6 {
 }
 
 .mobile-nav-active .mobile-nav-toggle {
-  color: #fff;
+  color: #39444e;
   background-color: #0563bb;
 }
 
@@ -1102,7 +1102,7 @@ section {
 
 .contact .php-email-form .sent-message {
   display: none;
-  color: #fff;
+  color: #22456d;
   background: #18d26e;
   text-align: center;
   padding: 15px;
