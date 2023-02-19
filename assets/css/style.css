@@ -45,13 +45,13 @@ h6 {
 
 .back-to-top i {
   font-size: 28px;
-  color: #fff;
+  color:#ee66cc;
   line-height: 0;
 }
 
 .back-to-top:hover {
   background: #ee66cc;
-  color: #fff;
+  color: #ee66cc;
 }
 
 .back-to-top.active {
